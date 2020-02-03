@@ -33,3 +33,14 @@ JavaScript code for checking if the brackets are balanced.
       return true;
     };
     console.log(areBracketsBalanced('()'));
+
+## Experience
+I have an experience in HTML coding for HTMLAcademy mailings with layouts for training.
+
+## Education
+* Tallinn University of Technology, 2019. Master's Degree in Robotics.
+* HTMLAcademy courses - HTML and CSS basics.
+* Hexlet online courses - JavaScript basics.
+
+## English
+Lived in Europe for a year, studied engineering in English and defended my thesis.
